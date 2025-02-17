@@ -13,3 +13,4 @@ captcha-canvas
 @discordjs/rest
 uuid
 aki-api
+canvafy
